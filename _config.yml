@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: CSE 598 L 
 tagline: CSE 598 L
-description: Course on recent advances in computing for augmenting human communication.
-author: Tal August
-baseurl: '/CS598LFall2024' # the subpath of your site, e.g. /blog
-url: 'https://talaugust.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+description: Course on advanced research topics about Conversational AI systems.
+author: Dilek Hakkani-Tur
+baseurl: '/Fall2024CS598ConvAI' # the subpath of your site, e.g. /blog
+url: 'https://uiuc-conversational-ai-lab.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -28,8 +28,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Tal August:
-    - 'https://talaugust.github.io/'
+  Conversational AI Lab:
+    - 'https://uiuc-conversational-ai-lab.github.io/'
 footer_content:
 
 # Collections for website data

@@ -15,7 +15,7 @@ A special topics course on Conversational AI
 
 **Time**: 09:30 - 10:45 am, Tuesday/Thursday \
 **Location**: 1214 Siebel  \
-**Instructor**: Tal August \
+**Instructor**: Dilek Hakkani-Tur \
 **TA**: David Zhou \
 **Office hours**: By appointment \
 **Email**: taugust@illinois.edu, david23@illinois.edu 
